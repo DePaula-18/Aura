@@ -1,0 +1,7 @@
+{
+  "name": "Aura - Sua Amiga e Conselheira ",
+  "description": "Uma companheira inteligente dedicada ao seu bem-estar emocional, oferecendo conselhos personalizados, acompanhamento de humor e exercícios de meditação.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
